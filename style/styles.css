@@ -1,0 +1,25 @@
+body{
+    background-color: #C7C7C7;
+}
+
+.bg-blue{
+    background-color:#0047FF;
+}
+
+.customText1{
+    color: white;
+    outline: 1px black;
+    font-size: 96px;
+}
+
+.customText2{
+    color: white;
+    outline: 1px black;
+    font-size: 48px;
+}
+
+.customText3{
+    color: black;
+    font-size: 32px;
+}
+
